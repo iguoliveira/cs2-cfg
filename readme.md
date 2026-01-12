@@ -5,7 +5,7 @@ Feel free to use, if you like it
 
 ## Mouse Config
 * Weight - 41g
-* DPI - 400
+* DPI - 800
 * Polling Rate - 1k
 * Windows Speed - 6
 * Enhance Precision - OFF
