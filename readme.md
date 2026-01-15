@@ -11,7 +11,7 @@ Feel free to use, if you like it
 * Enhance Precision - OFF
 
 ## Utils
-* CS2 Crosshair Code Converter to Command Line = https://cs2-crosshair-decoder.vercel.app/
-* CS2 Nade Lineups = https://csnades.gg/
-* Sens Converter = https://gamingsmart.com/mouse-sensitivity-converter/
-* Optimal Video Settings = https://www.reddit.com/r/GlobalOffensive/comments/171n5lm/optimal_video_settings_in_cs2/
+* [CS2 Crosshair Code Converter to Command Line](https://cs2-crosshair-decoder.vercel.app/)
+* [CS2 Nade Lineups](https://csnades.gg/)
+* [Sens Converter](https://gamingsmart.com/mouse-sensitivity-converter/)
+* [Optimal Video Settings](https://www.reddit.com/r/GlobalOffensive/comments/171n5lm/optimal_video_settings_in_cs2/)
