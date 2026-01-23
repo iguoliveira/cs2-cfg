@@ -12,7 +12,7 @@ Feel free to use, if you like it
 
 # Video Settings
 * Monitor Native Res: 1440p
-* Ingame Res: 1707x1280
+* Ingame Res: 1920x1440
 
 # Utils
 * [CS2 Crosshair Code Converter to Command Line](https://cs2-crosshair-decoder.vercel.app/)
