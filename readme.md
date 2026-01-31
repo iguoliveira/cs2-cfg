@@ -3,14 +3,19 @@ That is my personal, customized, cs2 config
 
 Feel free to use, if you like it
 
-# Mouse Config
+# Mouse
 * Weight: 41g
 * DPI: 800
 * Polling Rate: 1k
 
-# Video Settings
-* Monitor: 1440p 165hz
-* Ingame Res: 1707x1280
+# Audio
+* Headset: IEM
+* Mic: Standalone Mic
+* Windows: 50%
+
+# Video
+* Monitor: 1440p 144hz
+* Ingame Res: 1920x1440
 
 # Utils
 * [CS2 Crosshair Code Converter to Command Line](https://cs2-crosshair-decoder.vercel.app/)
