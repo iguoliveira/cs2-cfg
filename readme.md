@@ -11,7 +11,7 @@ Feel free to use, if you like it
 # Audio
 * Headset: IEM
 * Mic: Standalone Mic
-* Windows: 50%
+* Windows Volume: 50%
 
 # Video
 * Monitor: 1440p 144hz
