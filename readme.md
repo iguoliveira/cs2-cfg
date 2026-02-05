@@ -1,5 +1,5 @@
 # Nerd?
-That is my personal, customized, cs2 config. Feel free to use, if you like it
+That is my personal, customized, cs2 config. Feel free to use it
 
 # Mouse
 * Weight: 41g
@@ -7,8 +7,7 @@ That is my personal, customized, cs2 config. Feel free to use, if you like it
 * Polling Rate: 1k
 
 # Video
-* Monitor: 1440p 144hz
-* Ingame Res: 2560x1440
+* Ingame Res: 1707x1280 (1440p) && 1280x960 (1080p)
 
 # Utils
 * [CS2 Crosshair Code Converter to Command Line](https://cs2-crosshair-decoder.vercel.app/)
